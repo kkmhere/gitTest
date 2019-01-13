@@ -14,7 +14,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="-6dp"
         android:layout_marginTop="281dp"
-        android:background="@drawable/FirstPage1"
+        android:background="@drawable/firstpage1"
         android:padding="5dp" />
 
     <Button
@@ -25,5 +25,5 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="6dp"
         android:layout_marginBottom="231dp"
-        android:background="@drawable/FirstPage2" />
+        android:background="@drawable/firstpage2" />
 </RelativeLayout>
