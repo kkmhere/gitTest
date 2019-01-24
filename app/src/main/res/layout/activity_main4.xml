@@ -29,7 +29,7 @@
         android:layout_marginStart="0dp"
         android:layout_marginTop="146dp"
         android:fontFamily="monospace"
-        tools:text="Dwarf varieties" />
+        tools:text="Dwarf Varieties" />
 
     <Button
         android:id="@+id/button6"
@@ -41,7 +41,7 @@
         android:layout_marginStart="0dp"
         android:layout_marginTop="205dp"
         android:fontFamily="monospace"
-        tools:text="hybrid varieties" />
+        tools:text="Hybrid Varieties" />
 
     <TextView
         android:id="@+id/variety"
@@ -50,9 +50,8 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_marginStart="13dp"
-        android:layout_marginLeft="5dp"
         android:layout_marginTop="10dp"
-        android:layout_marginRight="12dp"
+        android:layout_marginEnd="12dp"
         android:layout_marginBottom="4dp"
         android:fontFamily="serif"
         android:textColor="#900c3f"
