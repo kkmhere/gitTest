@@ -4,6 +4,59 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/coconut4"
     tools:context=".Main4Activity">
+
+    <Button
+        android:id="@+id/button4"
+        style="@android:style/Widget.Button.Inset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="85dp"
+        android:fontFamily="monospace"
+        tools:text="Tall Varieties" />
+
+    <Button
+        android:id="@+id/button5"
+        style="@android:style/Widget.Button.Inset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="146dp"
+        android:fontFamily="monospace"
+        tools:text="Dwarf varieties" />
+
+    <Button
+        android:id="@+id/button6"
+        style="@android:style/Widget.Button.Inset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="205dp"
+        android:fontFamily="monospace"
+        tools:text="hybrid varieties" />
+
+    <TextView
+        android:id="@+id/variety"
+        android:layout_width="210dp"
+        android:layout_height="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="serif"
+        android:textColor="#900c3f"
+        android:textSize="25sp"
+        tools:text="Varieties:" />
 
 </RelativeLayout>
