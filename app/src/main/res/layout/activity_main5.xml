@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/coconut5"
+    android:background="@drawable/coconut7"
     tools:context=".Main5Activity">
 
     <TextView
@@ -32,12 +32,4 @@
         android:textColor="#ffff00"
         tools:text="1. Long lived palm living generally to an age of about 80 to 90 years.\n2. Palms thrive well under different soil conditions varying from littoral sands to red loams and laterites.\n3. Palms grow well up to an altitude of 3,000 ft. above the sea level. It is fairly resistant to diseases and pests.\n4. The tree attains a height of about 15m to 18m or more.\n5. It begins to bear in about 8 to 10 years after planting.\n6. The nut is medium to big in size varying in shape from spheroid to linear-oblong and with colors varying from green, yellow and orange to shades of brown.\n7. About 6,000 nuts yield a ton of copra." />
 
-    <Spinner
-        android:id="@+id/spinner2"
-        android:layout_width="369dp"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="21dp"
-        android:layout_marginBottom="102dp" />
 </RelativeLayout>
