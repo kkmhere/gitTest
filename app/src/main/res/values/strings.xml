@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">gitTest</string>
+
+    <string-array name="locations">
+        <item>Tamil Nadu</item>
+        <item>Karnataka</item>
+        <item>Kerela</item>
+
+    </string-array>
 </resources>

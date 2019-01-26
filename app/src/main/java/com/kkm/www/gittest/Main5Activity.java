@@ -12,6 +12,11 @@ public class Main5Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main5);
 
+        Spinner mySpinner = (Spinner) findViewById(R.id.spinner1);
 
+        ArrayAdapter<String> myAdapter = new ArrayAdapter<>(Main5Activity.this,
+                android.R.layout.simple_list_item_1, getResources().getStringArray(R.array.locations));
+        myAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        mySpinner.setAdapter(myAdapter);
     }
 }
