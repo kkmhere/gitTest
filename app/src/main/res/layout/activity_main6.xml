@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/coconut8"
+    tools:context=".Main6Activity">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="247dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:textColor="	#FF8C00"
+        android:textSize="25sp"
+        tools:text="Characteristics" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView4"
+        android:layout_alignParentTop="false"
+        android:layout_marginStart="-7dp"
+        android:layout_marginTop="64dp"
+        android:fontFamily="@font/amarante"
+        android:padding="4dp"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        tools:text="1. The dwarf coconut is small in stature (5-7 m) and commences bearing earlier than the tall variety .\n2. Dwarf coconut palms flower as early as the third year after planting and come to regular bearing in the ninth year.\n3. The average life span is 40-50 years.\n4. Dwarf or short variety which producing green, orange and yellow nuts. \n5. Susceptible to drought.\n6. Nuts are small in size and ovoid or round in shape.\n7. Nut weighs about 3 oz (85 gm) with 65 per cent oil content." />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="381dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginBottom="164dp" />
+</RelativeLayout>
