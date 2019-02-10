@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_alignStart="@+id/textView4"
         android:layout_alignParentTop="false"
-        android:layout_marginStart="-7dp"
+        android:layout_marginStart="-11dp"
         android:layout_marginTop="64dp"
         android:fontFamily="@font/amarante"
         android:padding="4dp"
