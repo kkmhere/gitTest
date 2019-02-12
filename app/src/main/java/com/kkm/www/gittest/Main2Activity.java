@@ -9,6 +9,12 @@ import android.widget.Button;
 public class Main2Activity extends AppCompatActivity {
     private Button button;
 
+    public void detect(View view)
+    {
+        Intent intent=new Intent(this,detection_activity.class);
+        startActivity(intent);
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

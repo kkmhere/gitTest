@@ -7,7 +7,7 @@
     tools:context=".Main2Activity">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/detect_button"
         android:layout_width="411dp"
         android:layout_height="322dp"
         android:layout_alignStart="@+id/button2"
@@ -15,6 +15,7 @@
         android:layout_marginStart="0dp"
         android:layout_marginTop="281dp"
         android:background="@drawable/firstpage1"
+        android:onClick="detect"
         android:padding="5dp" />
 
     <Button
