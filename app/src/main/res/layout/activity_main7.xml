@@ -16,9 +16,9 @@
         android:layout_marginStart="21dp"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/allerta_stencil"
+        android:text="Characteristics"
         android:textColor="	#FF8C00"
-        android:textSize="25sp"
-        tools:text="Characteristics" />
+        android:textSize="25sp" />
 
     <TextView
         android:id="@+id/textView5"
@@ -30,9 +30,9 @@
         android:layout_marginTop="64dp"
         android:fontFamily="@font/amarante"
         android:padding="4dp"
+        android:text="1. Hybrids are the inter-varietal crosses between the two morphological forms of coconut.\n2. They exhibit earliness in flowering, increased nut yield, higher copra production and give better quality copra and oil as compared to the parents.\n3. Hybrids are produced in two ways, with tall as female parent and dwarf as male parent (Tall x Dwarf) or dwarf as female parent and tall as male parent (Dwarf x Tall).\n4. Besides inter-varietal hybrids like Tall x Tall and Dwarf x Dwarf are also produced.\n5. Susceptible to humidity.\n6. Nut size depend on the proportion of mixture between the tall and dwarf varieties."
         android:textColor="#000000"
-        android:textSize="18sp"
-        tools:text="1. Hybrids are the inter-varietal crosses between the two morphological forms of coconut.\n2. They exhibit earliness in flowering, increased nut yield, higher copra production and give better quality copra and oil as compared to the parents.\n3. Hybrids are produced in two ways, with tall as female parent and dwarf as male parent (Tall x Dwarf) or dwarf as female parent and tall as male parent (Dwarf x Tall).\n4. Besides inter-varietal hybrids like Tall x Tall and Dwarf x Dwarf are also produced.\n5. Susceptible to humidity.\n6. Nut size depend on the proportion of mixture between the tall and dwarf varieties." />
+        android:textSize="18sp" />
 
     <Spinner
         android:id="@+id/spinner3"
