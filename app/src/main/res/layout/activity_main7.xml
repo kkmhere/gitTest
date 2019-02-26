@@ -34,13 +34,33 @@
         android:textColor="#000000"
         android:textSize="18sp" />
 
-    <Spinner
-        android:id="@+id/spinner3"
-        android:layout_width="match_parent"
+    <Button
+        android:id="@+id/kar"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
+        android:layout_alignStart="@+id/textView4"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="157dp" />
+        android:layout_marginBottom="49dp"
+        android:onClick="karnataka_details"
+        android:text="KARNATAKA" />
 
+    <Button
+        android:id="@+id/tamil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/kar"
+        android:layout_centerHorizontal="true"
+        android:onClick="tamil_details"
+        android:text="TAMIL NADU" />
+
+    <Button
+        android:id="@+id/kerela"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/kar"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="34dp"
+        android:onClick="kerela_details"
+        android:text="KERELA" />
 
 </RelativeLayout>
