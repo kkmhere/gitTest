@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/coconut8"
+    tools:context=".Lakshdweep">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="11dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:padding="2dp"
+        android:text="Characteristics"
+        android:textColor="	#FF8C00"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="382dp"
+        android:layout_height="403dp"
+        android:layout_below="@+id/textView7"
+        android:layout_alignStart="@+id/textView7"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="57dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:padding="2dp"
+        android:text="1. Soil: The palm grows in all types of soil and it can withstand moisture stress \n2. Time take for bearing: 5 to 6 years \n3. Average Yield: 100 nuts / palm / year \n4. Copra content: 176 gram / nuts \n5. Oil content: 72 per cent  \n6. Special Features: This cultivar was released by CPCRI, Kasaragod during 1985 under the name ‘Chandrakalpa’ for large scale cultivation in the state of Kerala, Tamil Nadu, Karnataka, Andhra Pradesh and Maharashtra"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+</RelativeLayout>

@@ -16,28 +16,28 @@ public class Karnataka_tall extends AppCompatActivity {
 
         b1 = findViewById(R.id.phil);
         b1.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                openActivityphil();
-            }
-        });
+        @Override
+        public void onClick(View view) {
+            openActivityphil();
+        }
+    });
 
-        b2 = findViewById(R.id.west);
+    b2 = findViewById(R.id.west);
         b2.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                openActivitywest();
-            }
-        });
+        @Override
+        public void onClick(View view) {
+            openActivitywest();
+        }
+    });
 
-        b3 = findViewById(R.id.tiptur);
+    b3 = findViewById(R.id.tiptur);
         b3.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                openActivitytiptur();
-            }
-        });
-    }
+        @Override
+        public void onClick(View view) {
+            openActivitytiptur();
+        }
+    });
+}
 
     public void openActivityphil() {
         Intent intent = new Intent(this, Philippines.class);

@@ -40,7 +40,10 @@
         <activity android:name=".Kerala_tall" />
         <activity android:name=".Philippines" />
         <activity android:name=".West" />
-        <activity android:name=".Tiptur"></activity>
+        <activity android:name=".Tiptur" />
+        <activity android:name=".Lakshdweep" />
+        <activity android:name=".East" />
+        <activity android:name=".Aliyar"></activity>
     </application>
 
 </manifest>
