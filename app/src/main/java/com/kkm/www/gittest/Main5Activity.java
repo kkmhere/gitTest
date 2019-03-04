@@ -52,7 +52,7 @@ public class Main5Activity extends AppCompatActivity {
     }
 
     public void openActivityket() {
-        Intent intent = new Intent(this, Main5Activity.class);
+        Intent intent = new Intent(this, Kerala_tall.class);
         startActivity(intent);
     }
 }

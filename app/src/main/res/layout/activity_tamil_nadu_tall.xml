@@ -30,8 +30,8 @@
         android:layout_marginTop="3dp"
         android:fontFamily="monospace"
         android:padding="2dp"
-        android:textColor="#000000"
-        tools:text="June - July, December – January.The planting can also be taken up in other seasons wherever irrigation and drainage facilities are available." />
+        android:text="June - July, December – January.The planting can also be taken up in other seasons wherever irrigation and drainage facilities are available."
+        android:textColor="#000000" />
 
     <TextView
         android:id="@+id/textView9"
