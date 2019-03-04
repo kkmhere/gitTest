@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/coconut8"
+    tools:context=".Kerasankara">
+
+    <TextView
+        android:id="@+id/kerasankara"
+        android:layout_width="193dp"
+        android:layout_height="31sp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="11dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:padding="2dp"
+        android:text="Characteristics"
+        android:textColor="	#FF8C00"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="384dp"
+        android:layout_height="338dp"
+        android:layout_alignStart="@+id/kerasankara"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="84dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:padding="2dp"
+        android:text="1. Selection from: West Coast Tall and Chowghat Orange Dwarf.\n2. Time take for bearing: 4 years.\n3. Average Yield: 108 nuts / palm / year.\n4. Copra content: 187 gram / nut\n5. Oil content: 68 per cent\n6. Special Features: This variety released by CPCRI, Kerala in 1991, for large scale cultivation in Kerala, Karnataka and Tamil Nadu. This hybrid palms are precocious and exhibit higher productivity than the parents. Recommended for general cultivation both under rainfed and irrigated conditions. "
+        android:textColor="#000000"
+        android:textSize="17sp" />
+
+
+</RelativeLayout>

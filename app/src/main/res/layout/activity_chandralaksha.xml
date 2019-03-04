@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/coconut8"
+    tools:context=".Chandralaksha">
+
+    <TextView
+        android:id="@+id/chandralaksha"
+        android:layout_width="193dp"
+        android:layout_height="31sp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="11dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:padding="2dp"
+        android:text="Characteristics"
+        android:textColor="	#FF8C00"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="400dp"
+        android:layout_height="341dp"
+        android:layout_alignStart="@+id/chandralaksha"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="114dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:padding="3dp"
+        android:text="1. Selection from: Lakshadweep Ordinary and Chowghat Orange Dwarf.\n2. Time take for bearing: 4 to 5years .\n3. Average Yield: 109 nuts / palm / year.\n4. Copra content: 195 gram / nut.\n5. Oil content: 69 per cent .\n6. Special Features:  This hybrid released by CPCRI, Kerala in 1985, for large scale cultivation in Kerala and Karnataka. This hybrid performs better in moisture stress situation.  "
+        android:textColor="#000000"
+        android:textSize="17sp" />
+
+</RelativeLayout>
