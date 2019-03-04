@@ -43,7 +43,9 @@
         <activity android:name=".Tiptur" />
         <activity android:name=".Lakshdweep" />
         <activity android:name=".East" />
-        <activity android:name=".Aliyar"></activity>
+        <activity android:name=".Aliyar" />
+        <activity android:name=".Vpm" />
+        <activity android:name=".Kera"></activity>
     </application>
 
 </manifest>

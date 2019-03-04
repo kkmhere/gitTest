@@ -22,7 +22,7 @@ public class Karnataka_tall extends AppCompatActivity {
         }
     });
 
-    b2 = findViewById(R.id.west);
+        b2 = findViewById(R.id.west);
         b2.setOnClickListener(new View.OnClickListener() {
         @Override
         public void onClick(View view) {
@@ -30,7 +30,7 @@ public class Karnataka_tall extends AppCompatActivity {
         }
     });
 
-    b3 = findViewById(R.id.tiptur);
+        b3 = findViewById(R.id.tiptur);
         b3.setOnClickListener(new View.OnClickListener() {
         @Override
         public void onClick(View view) {
