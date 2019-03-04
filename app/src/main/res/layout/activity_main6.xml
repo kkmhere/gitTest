@@ -40,7 +40,6 @@
         android:layout_alignStart="@+id/textView4"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="49dp"
-        android:onClick="karnataka_details"
         android:text="KARNATAKA" />
 
     <Button
@@ -49,7 +48,6 @@
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/kar"
         android:layout_centerHorizontal="true"
-        android:onClick="tamil_details"
         android:text="TAMIL NADU" />
 
     <Button
@@ -59,7 +57,6 @@
         android:layout_alignTop="@+id/kar"
         android:layout_alignParentEnd="true"
         android:layout_marginEnd="34dp"
-        android:onClick="kerela_details"
         android:text="KERELA" />
 
 

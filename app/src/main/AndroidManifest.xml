@@ -45,7 +45,18 @@
         <activity android:name=".East" />
         <activity android:name=".Aliyar" />
         <activity android:name=".Vpm" />
-        <activity android:name=".Kera"></activity>
+        <activity android:name=".Kera" />
+        <activity android:name=".Karnataka_short" />
+        <activity android:name=".Orange" />
+        <activity android:name=".Tamil_Nadu_short" />
+        <activity android:name=".Green" />
+        <activity android:name=".Kerala_short">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
