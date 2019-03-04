@@ -37,7 +37,10 @@
         <activity android:name=".detection_activity" />
         <activity android:name=".Karnataka_tall" />
         <activity android:name=".TamilNadu_tall" />
-        <activity android:name=".Kerala_tall"></activity>
+        <activity android:name=".Kerala_tall" />
+        <activity android:name=".Philippines" />
+        <activity android:name=".West" />
+        <activity android:name=".Tiptur"></activity>
     </application>
 
 </manifest>

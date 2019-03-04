@@ -61,7 +61,7 @@
         android:textColor="#000000" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/phil"
         android:layout_width="374dp"
         android:layout_height="38dp"
         android:layout_alignParentStart="true"
@@ -71,7 +71,7 @@
         android:text="Philippines Ordinary (Kerachandra)" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/west"
         android:layout_width="374dp"
         android:layout_height="38dp"
         android:layout_alignStart="@+id/textView8"
@@ -80,7 +80,7 @@
         android:text="West Coast Tall" />
 
     <Button
-        android:id="@+id/button8"
+        android:id="@+id/tiptur"
         android:layout_width="374dp"
         android:layout_height="38dp"
         android:layout_alignParentBottom="true"
