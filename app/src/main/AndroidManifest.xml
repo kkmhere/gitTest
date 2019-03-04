@@ -63,7 +63,10 @@
         <activity android:name=".Kerasankara" />
         <activity android:name=".Chandrasankara" />
         <activity android:name=".Chandralaksha" />
-        <activity android:name=".Vh1"></activity>
+        <activity android:name=".Vh1" />
+        <activity android:name=".Kerasoubhagya" />
+        <activity android:name=".Lakshaganga" />
+        <activity android:name=".Vh3"></activity>
     </application>
 
 </manifest>
