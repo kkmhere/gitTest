@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/coconut8"
+    tools:context=".TamilNadu_hybrid">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="11dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:padding="2dp"
+        android:text="PLANTING SEASON"
+        android:textColor="	#FF8C00"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="367dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView7"
+        android:layout_alignStart="@+id/textView7"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="3dp"
+        android:fontFamily="monospace"
+        android:padding="2dp"
+        android:text="June - July, December – January.The planting can also be taken up in other seasons wherever irrigation and drainage facilities are available."
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="170dp"
+        android:layout_height="31dp"
+        android:layout_alignStart="@+id/textView8"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="139dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:padding="2dp"
+        android:text="CLIMATE"
+        android:textColor="	#FF8C00"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="372dp"
+        android:layout_height="211dp"
+        android:layout_alignStart="@+id/textView8"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="179dp"
+        android:fontFamily="monospace"
+        android:padding="2dp"
+        android:text="Coconut is a tropical crop and grows well a hot climate. The coconut thrives well within 23 degrees of the equator (Between 200N and 200S latitudes) and an altitude of up to 600 m above Mean Sea Level. However, it is being grown up to 900 m above mean sea level in some places. The temperature should be from 20 ° to 32°C.  High temperature may cause the developing inflorescence to dry up, and limit production during those months in the year. "
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/keraso"
+        android:layout_width="374dp"
+        android:layout_height="38dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="14dp"
+        android:layout_marginBottom="144dp"
+        android:text="Kerasoubhagya (WCT x SSCT)" />
+
+    <Button
+        android:id="@+id/laksha"
+        android:layout_width="374dp"
+        android:layout_height="38dp"
+        android:layout_alignStart="@+id/textView8"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="95dp"
+        android:text="Lakshaganga (LCT x GBGD)" />
+
+    <Button
+        android:id="@+id/vh3"
+        android:layout_width="374dp"
+        android:layout_height="38dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="47dp"
+        android:text="VHC 3 (ECT x MOD)" />
+
+</RelativeLayout>

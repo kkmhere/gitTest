@@ -57,6 +57,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Karnataka_hybrid" />
+        <activity android:name=".TamilNadu_hybrid" />
+        <activity android:name=".Kerala_hybrid"></activity>
     </application>
 
 </manifest>
