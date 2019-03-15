@@ -39,7 +39,8 @@
         android:layout_height="31dp"
         android:layout_alignStart="@+id/textView8"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="139dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="125dp"
         android:fontFamily="@font/allerta_stencil"
         android:padding="2dp"
         android:text="CLIMATE"
@@ -53,7 +54,7 @@
         android:layout_alignStart="@+id/textView8"
         android:layout_alignParentTop="true"
         android:layout_marginStart="0dp"
-        android:layout_marginTop="179dp"
+        android:layout_marginTop="156dp"
         android:fontFamily="monospace"
         android:padding="2dp"
         android:text="The coconut palm thrives well within 230N and 230S latitude. Even though it is grown as far as 27° N and 27° S, those palms put on good vegetative growth but exhibit poor nut yield and hence not grown in a commercial scale beyond 23° N and 23° S. Normally an altitude of 600 m appears to be the limit for commercial coconut cultivation.A total of 1000 mm is sufficient, if it is evenly distributed throughout the year.The optimum relative humidity is 80 – 85 per cent "
@@ -65,8 +66,8 @@
         android:layout_height="38dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="14dp"
-        android:layout_marginBottom="161dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginBottom="108dp"
         android:text="Kerasankara (WCT x COD))" />
 
     <Button
@@ -75,17 +76,18 @@
         android:layout_height="38dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="14dp"
-        android:layout_marginBottom="119dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginBottom="73dp"
         android:text="Chandrasankara (COD x WCT)" />
 
     <Button
         android:id="@+id/chandral"
         android:layout_width="374dp"
         android:layout_height="38dp"
+        android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="72dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginBottom="39dp"
         android:text="Chandralaksha(LCT x COD)" />
 
     <Button
@@ -94,7 +96,8 @@
         android:layout_height="38dp"
         android:layout_alignStart="@+id/chandral"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="27dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginBottom="6dp"
         android:text="VHC 1 (ECT x MGD)" />
 
 </RelativeLayout>

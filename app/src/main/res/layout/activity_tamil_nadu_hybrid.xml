@@ -52,8 +52,8 @@
         android:layout_height="211dp"
         android:layout_alignStart="@+id/textView8"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="0dp"
-        android:layout_marginTop="179dp"
+        android:layout_marginStart="-2dp"
+        android:layout_marginTop="169dp"
         android:fontFamily="monospace"
         android:padding="2dp"
         android:text="Coconut is a tropical crop and grows well a hot climate. The coconut thrives well within 23 degrees of the equator (Between 200N and 200S latitudes) and an altitude of up to 600 m above Mean Sea Level. However, it is being grown up to 900 m above mean sea level in some places. The temperature should be from 20 ° to 32°C.  High temperature may cause the developing inflorescence to dry up, and limit production during those months in the year. "
@@ -65,8 +65,8 @@
         android:layout_height="38dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="14dp"
-        android:layout_marginBottom="144dp"
+        android:layout_marginStart="9dp"
+        android:layout_marginBottom="93dp"
         android:text="Kerasoubhagya (WCT x SSCT)" />
 
     <Button
@@ -75,16 +75,18 @@
         android:layout_height="38dp"
         android:layout_alignStart="@+id/textView8"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="95dp"
+        android:layout_marginStart="-5dp"
+        android:layout_marginBottom="58dp"
         android:text="Lakshaganga (LCT x GBGD)" />
 
     <Button
         android:id="@+id/vh3"
         android:layout_width="374dp"
         android:layout_height="38dp"
+        android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="47dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="16dp"
         android:text="VHC 3 (ECT x MOD)" />
 
 </RelativeLayout>

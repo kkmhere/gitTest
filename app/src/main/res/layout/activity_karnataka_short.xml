@@ -65,8 +65,8 @@
         android:layout_height="38dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="14dp"
-        android:layout_marginBottom="144dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginBottom="56dp"
         android:text="Chowghat Orange Dwarf (COD)" />
 
 
