@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/coconut8"
+    tools:context=".Vh2">
+
+    <TextView
+        android:id="@+id/vhc2"
+        android:layout_width="193dp"
+        android:layout_height="31sp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="11dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:padding="2dp"
+        android:text="Characteristics"
+        android:textColor="	#FF8C00"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="384dp"
+        android:layout_height="338dp"
+        android:layout_alignStart="@+id/vhc2"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="84dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:padding="2dp"
+        android:text="1. Selection from: East Coast Tall x Malayan Yellow Dwarf.\n2. Time take for bearing: 4 years.\n3. Average Yield: 107 nuts / palm / year.\n4. Copra content: 152 gram / nut.\n5. Oil content: 69 per cent.\n6. Special Features: This hybrid released by Tamil Nadu Agricultural University in 1987 under the name ‘Veppankulam Hybrid Combination – 2’ (VHC-2) for general cultivation in Tamil Nadu and Kerala. "
+        android:textColor="#000000"
+        android:textSize="17sp"/>
+
+</RelativeLayout>
