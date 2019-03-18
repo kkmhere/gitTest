@@ -27,7 +27,7 @@
         android:layout_below="@+id/textView7"
         android:layout_alignStart="@+id/textView7"
         android:layout_marginStart="4dp"
-        android:layout_marginTop="57dp"
+        android:layout_marginTop="36dp"
         android:fontFamily="@font/allerta_stencil"
         android:padding="2dp"
         android:text="1. Soil: WCT palm grows in all type of soil, especially grow well in littoral sand as well as in the interior and is somewhat tolerant to moisture stress in the soil \n2. Time take for bearing: 6 to 7 years \n3. Average Yield: 80 nuts / palm / year \n4. Copra content: 176 gram/ nut, the range between 135 and 200 gram \n5. Oil content: 68 per cent \n6. Special Features: It is recommended for large scale cultivation in coastal regions of Tamil Nadu, Kerala, Karnataka, Gujarat, Bihar, Madhya Pradesh, Lakshadweep, Orissa and Tripura. The tree also yields, on tapping, good quantity and quality of coconut juice or toddy which can be fermented or converted into jaggery or sugar. It can prefer for both edible purpose and soap manufacture."

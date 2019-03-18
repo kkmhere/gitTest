@@ -48,8 +48,8 @@
 
     <TextView
         android:id="@+id/textView10"
-        android:layout_width="372dp"
-        android:layout_height="211dp"
+        android:layout_width="wrap_content"
+        android:layout_height="228dp"
         android:layout_alignStart="@+id/textView8"
         android:layout_alignParentTop="true"
         android:layout_marginStart="0dp"
@@ -65,8 +65,8 @@
         android:layout_height="38dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="14dp"
-        android:layout_marginBottom="144dp"
+        android:layout_marginStart="9dp"
+        android:layout_marginBottom="60dp"
         android:text="Chowghat Orange Dwarf (COD)" />
 
 
