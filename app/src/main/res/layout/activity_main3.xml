@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:alpha="1"
-    android:background="@drawable/coconut3"
+    android:background="@drawable/coconut8"
     tools:context=".Main3Activity">
 
     <Button
@@ -52,7 +52,7 @@
         android:padding="4dp"
         android:text="The coconut tree (Cocos nucifera) is a member of the palm tree family (Arecaceae) and the only living species of the genus Cocos. Coconuts are known for their versatility of uses, ranging from food to cosmetics. The inner flesh of the mature seed forms a regular part of the diets of many people in the tropics and subtropics. Coconuts are distinct from other fruits because their endosperm contains a large quantity of clear liquid,called 'coconut milk' in the literature,and when immature, may be harvested for their potable 'coconut water', also called 'coconut juice'. The name coconut derives from seafarers during the 16th and 17th century for its resemblance to a head. 'Coco' and 'coconut' apparently came from 1521 encounters by Portuguese and Spanish explorers with Pacific islanders, with the coconut shell reminding them of a ghost or witch in Portuguese folklore called coco (also côca). The specific name nucifera is Latin for 'nut-bearing.'"
         android:textAlignment="center"
-        android:textColor="@android:color/holo_red_dark"
+        android:textColor="#000000"
         android:textSize="13sp"
         android:textStyle="bold"
         android:visibility="visible" />
