@@ -26,6 +26,6 @@ public class MainActivity extends AppCompatActivity {
                     MainActivity.this.finish();
                 }
             }
-        };t.start();
+        };t.start(); //splash
     }
 }
