@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#b3e5fc"
+    tools:context=".bud_remedies">
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="BUD ROT REMEDIES"
+        android:textColor="@color/colorAccent"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="47dp"
+        android:fontFamily="@font/adamina"
+        android:text="1>Treated wound should be given a protective covering till the next normal shoot emerges.\n
+2>Badly affected trees which are beyond recovery should be cut and burnt.\n\n3>	At initial stage of the disease when the spindle is just withering, application of Bordeaux paste (100 g copper sulphate and 100 g quick lime each dissolved in 500 ml of water separately and mixed together to make one litre) on the crown after removing the infected tissue and a thorough cleaning prevents the spread.
+\n4>	All the healthy palms around diseased plants should be sprayed with one percent Bordeaux mixture or copper oxychloride (3 g/l).
+
+"
+        android:textColor="#3e2723"
+        android:textSize="20sp" />
+
+</RelativeLayout>

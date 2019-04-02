@@ -14,6 +14,12 @@ public class detection_activity extends AppCompatActivity {
 
     ImageView cimg;
 
+    public void remedies_activity(View view)
+    {
+        Intent intent=new Intent(this,remedies.class);
+        startActivity(intent);
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,6 +34,8 @@ public class detection_activity extends AppCompatActivity {
                 startActivityForResult(intent,0);
             }
         });
+
+
 
     }
 

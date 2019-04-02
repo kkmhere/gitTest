@@ -70,7 +70,10 @@
         <activity android:name=".Anandaganga" />
         <activity android:name=".Keraganga" />
         <activity android:name=".Kerasree" />
-        <activity android:name=".Vh2"></activity>
+        <activity android:name=".Vh2" />
+        <activity android:name=".remedies" />
+        <activity android:name=".bud_remedies" />
+        <activity android:name=".stem_remedies"></activity>
     </application>
 
 </manifest>

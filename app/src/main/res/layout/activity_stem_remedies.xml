@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#b3e5fc"
+    tools:context=".stem_remedies">
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="STEM BLEEDING REMEDIES"
+        android:textColor="@color/colorAccent"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="47dp"
+        android:fontFamily="@font/adamina"
+        android:text="1> The disease can be controlled to a certain extent by carrying out the following treatments. \n 2>	The infected tissues should be cut out with a chisel. \n 3>	The inner affected tissues should be scooped out till no diseased tissues remain behind and dressing the wound with tar or Bordeaux paste. \n 4>Since T. paradoxa is not considered a virulent pathogen, but a wound parasite, palms growing under unfavourable conditions having a large number of growth cracks are more susceptible to the disease as the growth cracks form the foci of fungal infection. \n 5>	Hence general improvement of the cultural conditions is indicated where the disease is of common occurrence. "
+        android:textColor="#3e2723"
+        android:textSize="20sp" />
+</RelativeLayout>

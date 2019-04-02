@@ -15,17 +15,19 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:fontFamily="@font/aldrich"
-        android:text="ALL YOU NEED TO DO IS TO CLICK THE BUTTON BELOW TO START THE CAMERA AND THEN  DETECT THE IMAGE,ONCE THE IMAGE GETS DETECTED THE DISEASE WILL BE TOLD AUTOMATICALLY"
+        android:text="ALL YOU NEED TO DO IS TO CLICK THE BUTTON BELOW TO START THE CAMERA AND THEN  DETECT THE IMAGE,ONCE THE IMAGE GETS DETECTED THE DISEASE WILL BE DISPLAYED.\nPLEASE CLICK ON THE IMAGE TO KNOW THE REMEDIES
+"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="@color/colorPrimary"
-        android:textSize="35sp"
+        android:textSize="25sp"
         android:textStyle="bold" />
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="150dp"
+        android:onClick="remedies_activity"
         app:srcCompat="?attr/actionModeBackground" />
 
     <Button
