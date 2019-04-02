@@ -29,5 +29,5 @@
         android:fontFamily="@font/adamina"
         android:text="1> The disease can be controlled to a certain extent by carrying out the following treatments. \n 2>	The infected tissues should be cut out with a chisel. \n 3>	The inner affected tissues should be scooped out till no diseased tissues remain behind and dressing the wound with tar or Bordeaux paste. \n 4>Since T. paradoxa is not considered a virulent pathogen, but a wound parasite, palms growing under unfavourable conditions having a large number of growth cracks are more susceptible to the disease as the growth cracks form the foci of fungal infection. \n 5>	Hence general improvement of the cultural conditions is indicated where the disease is of common occurrence. "
         android:textColor="#3e2723"
-        android:textSize="20sp" />
+        android:textSize="18sp" />
 </RelativeLayout>

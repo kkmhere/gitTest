@@ -33,6 +33,6 @@
 
 "
         android:textColor="#3e2723"
-        android:textSize="20sp" />
+        android:textSize="18sp" />
 
 </RelativeLayout>
